@@ -1,0 +1,22 @@
+# The test:
+
+    build front end application to achieve the requirements
+
+    1- connect your front end application to the socket
+    url: localhost:3000
+    and display the messages that being send in the socket inside your front end
+    display the messages like list from top to buttom
+
+    2- display table of users using the end point 
+    http://localhost:3000/users
+
+    you can choose your design
+
+
+# How to run back end application:
+
+    1- open your terminal inside /Test Folder
+    2- run ( npm install ) to install dependencies
+    3- run ( node index ) and the server is running
+
+
